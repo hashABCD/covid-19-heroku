@@ -1,2 +1,2 @@
-# covid-19-heroku
-Repository for covid-19 global heroku app
+# covid-in-india
+covid-19 dataset for India 

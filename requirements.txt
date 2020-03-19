@@ -1,0 +1,5 @@
+streamlit>=0.49.0
+numpy>=1.9.2
+matplotlib>=1.4.3
+pandas>=0.19
+seaborn>=0.10.0
